@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Basic Tutorial</string>
+    <string name="title">Title</string>
+    <string name="image">Image</string>
 </resources>
